@@ -17,8 +17,4 @@ A simple Snake Game built using Python.
 ```bash
 python main.py
 
-## 📸 Screenshot
-
-![Snake Game](snake_dashboard.png)
-
 
